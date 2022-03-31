@@ -3,6 +3,9 @@ package com.git;
 public class AdminTest {
 	int i =10;
 	String name;
+	String s;
+	
+	String name1;
 	
 	
 	public void m1() {
